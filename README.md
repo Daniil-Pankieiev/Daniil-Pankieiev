@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently learning **Python, Django, DRF, Docker**
+ 🔭 I’m currently learning **Python, Django, DRF, FAST API, Docker**
 
 💬 Ask me some **joke...**
 
